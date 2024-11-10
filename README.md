@@ -46,7 +46,7 @@
     - Membuat lapisan tersembunyi dengan neuron dan fungsi aktivasi ReLU.
     - Menentukan jumlah *epoch*, ukuran *batch*, nama file model, dan melakukan *model reload* untuk prediksi data baru.<br>
 
--      02_Kelompok H_04 <br>
+-  02_Kelompok H_04 <br>
     *Tujuan*: Mengklasifikasi transaksi yang terindikasi fraud menggunakan *Multilayer Perceptron (MLP)* dengan bantuan *GPU* untuk meningkatkan efisiensi, serta menyusun hasil sebagai bagian dari *portfolio* peserta. <br>
         **Langkah-Langkah Tugas**:<br>
     1. **Prapemrosesan Data**:<br>
